@@ -25,3 +25,4 @@ public class Rectangle implements Polygon {
         return 2 * (s1 + s2);
     }
 }
+
