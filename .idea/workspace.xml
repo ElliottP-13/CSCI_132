@@ -122,7 +122,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="30" />
     <option name="y" value="60" />
     <option name="width" value="3780" />
@@ -165,7 +165,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539283311204" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539283387698" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -180,9 +180,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Driver">
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Labs.Driver" />
+  <component name="RunManager" selected="Application.ReverseGeneric">
+    <configuration name="ReverseGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Labs.ReverseGeneric" />
       <module name="CSCI_132" />
       <extension name="coverage">
         <pattern>
@@ -209,11 +209,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.ShapeDemo" />
-      <item itemvalue="Application.Driver" />
+      <item itemvalue="Application.ReverseGeneric" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.ReverseGeneric" />
         <item itemvalue="Application.ShapeDemo" />
       </list>
     </recent_temporary>
