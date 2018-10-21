@@ -7,6 +7,10 @@ public class Hexagon implements Polygon{
         side_length = side;
     }
 
+    /**
+     *
+     * @return Area of Hexagon
+     */
     @Override
     public double area() {
         return area_coefficient * Math.pow(side_length, 2);

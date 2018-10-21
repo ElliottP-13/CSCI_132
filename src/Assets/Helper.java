@@ -103,6 +103,7 @@ public class Helper {
 
 	public String readString() {
 		Scanner scan = new Scanner(System.in);
+		scan.close();
 		return scan.nextLine();
 	}
 
@@ -125,6 +126,7 @@ public class Helper {
 				
 			}
 		}
+		scan.close();
 		return in;
 	}
 
@@ -135,18 +137,21 @@ public class Helper {
 
 	public double readDouble() {
 		boolean valid = false;
-		
+
 		Scanner scan = new Scanner(System.in);
-		String input = scan.nextLine();
+		String input;
 		double in = 0;
+
 		while(!valid) {
+			input = scan.nextLine();
 			try {
 				in = Double.parseDouble(input);
 				valid = true;
 			} catch (NumberFormatException e) {
-				
+				System.out.println("Please enter an actual number");
 			}
 		}
+		scan.close();
 		return in;
 	}
 
