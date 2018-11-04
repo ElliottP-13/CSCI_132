@@ -15,6 +15,20 @@ public class Helper {
 		startTime = System.currentTimeMillis(); // starts the timer
 	}
 
+	/**
+	 * Fills an array an array with random ints 0 to 99
+	 *
+	 * @param size The size of the array to generate
+	 */
+	public int[] fillRandomly(int size) {
+		int[] array = new int[size];
+		Random rand = new Random();
+		for (int i = 0; i < size; i++) {
+			array[i] = rand.nextInt(100);
+		}
+		return array;
+	}
+
 	public void start() {
 		startTime = System.currentTimeMillis();
 	}
@@ -106,6 +120,12 @@ public class Helper {
 		return scan.nextLine();
 	}
 
+	/**
+	 * Prompts a user with text and returns the input from the console as a string
+	 *
+	 * @param text the text printed to the console as a prompt
+	 * @return a string value scanned in from the console
+	 */
 	public String readString(String text) {
 		System.out.println(text);
 		return readString();
@@ -128,6 +148,12 @@ public class Helper {
 		return in;
 	}
 
+	/**
+	 * Guarantees an int value. Will continue looping if not given an integer value
+	 *
+	 * @param text The text printed to the console as a prompt
+	 * @return an int value scanned in from the console
+	 */
 	public int readInt(String text) {
 		System.out.println(text);
 		return readInt();
