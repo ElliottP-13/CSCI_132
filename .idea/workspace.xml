@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="72a14434-16e3-42da-b6b5-ac2b0839c20b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CSCI_132/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSCI_132/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Assets/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/Helper.java" afterDir="false" />
+=======
+    <list default="true" id="0791ad65-f290-41ba-a65d-41f62f541f9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Projects/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSCI_132/src/Labs/Interface/Hexagon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSCI_132/src/Labs/Interface/Hexagon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSCI_132/src/Labs/Interface/ShapeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSCI_132/src/Labs/Interface/ShapeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Interface/Hexagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Interface/Hexagon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Interface/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Interface/Polygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Interface/ShapeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Interface/ShapeDemo.java" afterDir="false" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,9 +26,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-40335252">
+    <session id="-263321061">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< HEAD
           <entry key="project.closed" value="12" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="1" />
@@ -28,28 +41,51 @@
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
           <entry key="project.opened" value="12" />
+=======
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="java" value="22" />
+=======
+          <entry key="java" value="8" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
           <entry key="JAVA" value="22" />
+=======
+          <entry key="JAVA" value="8" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="dummy" value="16" />
           <entry key="java" value="6209" />
+=======
+          <entry key="java" value="3701" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="JAVA" value="6209" />
           <entry key="PLAIN_TEXT" value="16" />
+=======
+          <entry key="JAVA" value="3701" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -61,6 +97,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/Labs/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1156">
@@ -92,6 +129,12 @@
               <folding>
                 <element signature="method#readInt#0;class#InsertionsSorterDemo#0" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/src/Projects/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1292">
+              <caret line="94" column="74" selection-start-line="94" selection-start-column="74" selection-end-line="94" selection-end-column="74" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
             </state>
           </provider>
         </entry>
@@ -99,8 +142,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Assets/Helper.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="255">
               <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+=======
+            <state relative-caret-position="83">
+              <caret line="105" column="21" selection-start-line="105" selection-start-column="21" selection-end-line="105" selection-end-column="21" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
               <folding>
                 <element signature="method#getElapsedTime#0;class#Helper#0" />
                 <element signature="method#printlnTextSlowly#0;class#Helper#0" />
@@ -109,11 +157,8 @@
                 <element signature="method#tone#1;class#Helper#0" />
                 <element signature="method#isAgreement#0;class#Helper#0" />
                 <element signature="method#playSound#0;class#Helper#0" />
-                <element signature="method#readString#0;class#Helper#0" />
                 <element signature="method#readString#1;class#Helper#0" />
-                <element signature="method#readInt#0;class#Helper#0" />
                 <element signature="method#readInt#1;class#Helper#0" />
-                <element signature="method#readDouble#0;class#Helper#0" />
                 <element signature="method#readDouble#1;class#Helper#0" />
                 <element signature="method#printBox#0;class#Helper#0" />
                 <element signature="method#inputBox#0;class#Helper#0" />
@@ -132,6 +177,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -143,6 +189,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Labs/Interface/Rectangle.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/Labs/Song.java" />
         <option value="$PROJECT_DIR$/src/Labs/Driver.java" />
         <option value="$PROJECT_DIR$/src/Labs/ReverseGeneric.java" />
@@ -153,6 +200,14 @@
         <option value="$PROJECT_DIR$/src/Labs/PrefixAverages.java" />
         <option value="$PROJECT_DIR$/src/Assets/Helper.java" />
         <option value="$PROJECT_DIR$/src/Labs/BinarySearch.java" />
+=======
+        <option value="$PROJECT_DIR$/src/Labs/Interface/Square.java" />
+        <option value="$PROJECT_DIR$/src/Labs/Interface/Hexagon.java" />
+        <option value="$PROJECT_DIR$/src/Labs/Interface/Polygon.java" />
+        <option value="$PROJECT_DIR$/src/Labs/Interface/ShapeDemo.java" />
+        <option value="$PROJECT_DIR$/src/Assets/Helper.java" />
+        <option value="$PROJECT_DIR$/src/Projects/Calculator.java" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
       </list>
     </option>
   </component>
@@ -163,10 +218,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-18" />
-    <option name="y" value="-18" />
-    <option name="width" value="3876" />
-    <option name="height" value="2076" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -192,24 +246,13 @@
               <item name="CSCI_132" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSCI_132" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CSCI_132" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSCI_132" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Labs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CSCI_132" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSCI_132" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Projects" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -217,8 +260,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541097013794" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538782146906" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -232,6 +281,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.BinarySearch">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Labs.BinarySearch" />
@@ -248,6 +298,11 @@
     </configuration>
     <configuration name="InsertionsSorterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Projects.InsertionsSorterDemo" />
+=======
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Projects.Calculator" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
       <module name="CSCI_132" />
       <extension name="coverage">
         <pattern>
@@ -259,6 +314,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="PrefixAverages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Labs.PrefixAverages" />
       <module name="CSCI_132" />
@@ -274,19 +330,10 @@
     </configuration>
     <configuration name="ReverseGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Labs.ReverseGeneric" />
-      <module name="CSCI_132" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.Labs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SinglyLinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Labs.SinglyLinkedListDemo" />
+=======
+    <configuration name="ShapeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Labs.Interface.ShapeDemo" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
       <module name="CSCI_132" />
       <extension name="coverage">
         <pattern>
@@ -299,6 +346,7 @@
       </method>
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Application.ReverseGeneric" />
       <item itemvalue="Application.InsertionsSorterDemo" />
       <item itemvalue="Application.SinglyLinkedListDemo" />
@@ -312,6 +360,15 @@
         <item itemvalue="Application.SinglyLinkedListDemo" />
         <item itemvalue="Application.InsertionsSorterDemo" />
         <item itemvalue="Application.ReverseGeneric" />
+=======
+      <item itemvalue="Application.ShapeDemo" />
+      <item itemvalue="Application.Calculator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.ShapeDemo" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
       </list>
     </recent_temporary>
   </component>
@@ -320,10 +377,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="72a14434-16e3-42da-b6b5-ac2b0839c20b" name="Default Changelist" comment="" />
-      <created>1538071019001</created>
+      <changelist id="0791ad65-f290-41ba-a65d-41f62f541f9c" name="Default Changelist" comment="" />
+      <created>1538019531252</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1538071019001</updated>
       <workItem from="1538071023252" duration="112000" />
       <workItem from="1538072003566" duration="577000" />
@@ -336,34 +394,59 @@
       <workItem from="1540415965899" duration="2322000" />
       <workItem from="1540490243349" duration="491000" />
       <workItem from="1541095182610" duration="1342000" />
+=======
+      <updated>1538019531252</updated>
+      <workItem from="1538019533903" duration="5763000" />
+      <workItem from="1538779530084" duration="37000" />
+      <workItem from="1538779586134" duration="2600000" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="19281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21682848" />
+=======
+    <option name="totallyTimeSpent" value="8400000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13432837" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.3179396" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3410302" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3264642" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.1740675" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="9" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -381,58 +464,56 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="scalar * array[j-1] &gt; scalar * curr" />
-      </configuration>
-    </watches-manager>
-  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Info2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Labs/Interface/Polygon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Labs/Interface/Square.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="170">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Labs/Interface/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Labs/Interface/Polygon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="408">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+          <folding>
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Labs/Interface/Hexagon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="153">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Labs/Interface/ShapeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/ReverseIntArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="52" column="52" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="52" />
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="method#readDouble#0;class#ShapeDemo#0" />
+            <element signature="method#readDouble#1;class#ShapeDemo#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Labs/SinglyLinkedListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="221">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
@@ -534,6 +615,38 @@
             <element signature="method#nap#0;class#Helper#0" />
             <element signature="method#snooze#0;class#Helper#0" />
           </folding>
+=======
+        <state relative-caret-position="83">
+          <caret line="105" column="21" selection-start-line="105" selection-start-column="21" selection-end-line="105" selection-end-column="21" />
+          <folding>
+            <element signature="method#getElapsedTime#0;class#Helper#0" />
+            <element signature="method#printlnTextSlowly#0;class#Helper#0" />
+            <element signature="method#printlnTextSlowly#1;class#Helper#0" />
+            <element signature="method#tone#0;class#Helper#0" />
+            <element signature="method#tone#1;class#Helper#0" />
+            <element signature="e#1494#1514#0" />
+            <element signature="method#isAgreement#0;class#Helper#0" />
+            <element signature="method#playSound#0;class#Helper#0" />
+            <element signature="method#readString#1;class#Helper#0" />
+            <element signature="method#readInt#1;class#Helper#0" />
+            <element signature="method#readDouble#1;class#Helper#0" />
+            <element signature="method#printBox#0;class#Helper#0" />
+            <element signature="method#inputBox#0;class#Helper#0" />
+            <element signature="method#yesNoBox#0;class#Helper#0" />
+            <element signature="method#rand#0;class#Helper#0" />
+            <element signature="method#parcer#0;class#Helper#0" />
+            <element signature="e#4412#4443#0" />
+            <element signature="method#nap#0;class#Helper#0" />
+            <element signature="method#snooze#0;class#Helper#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Projects/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="94" column="74" selection-start-line="94" selection-start-column="74" selection-end-line="94" selection-end-column="74" />
+>>>>>>> cbcdb4ceaba7f43f6c1dc34313f668e04858e56c
         </state>
       </provider>
     </entry>
