@@ -49,9 +49,10 @@ public class StackQueueDemo {
 		dllTestStack.pop();
 		System.out.println(dllTestStack.toString());
 		
-		System.out.println(testPalindrom("taco cat"));
-		System.out.println(testPalindrom("hot dog"));
-		
+		System.out.println(testPalindrom("taco cat"));//real palindrome
+		System.out.println(testPalindrom("hot dog"));//not palindrome
+		System.out.println(testPalindrom("a man a plan a canal panama"));//real palindrome
+
 		
 		// test array stack
 		ArrayStack<Double> arrayTestStack = new ArrayStack<>();
@@ -89,16 +90,16 @@ public class StackQueueDemo {
 
 	private static boolean testPalindrom(String str){
 		DLLStack<Character> stack = new DLLStack<>();
-		stack.push(str.charAt(0));
-		for (int i = 1; i < str.length(); i++){
-			char top = stack.top();
-			if(str.charAt(i) != ' ' && str.charAt(i) != top)
-				stack.push(str.charAt(i));
-			else if (str.charAt(i) == top)
-				stack.pop();
-		}
+		str = str.replaceAll(" ", "");
 
-		return stack.isEmpty();
+		for (int i = 0; i < str.length(); i++){
+			stack.push(str.charAt(i));
+		}
+		String reverse = "";
+		while (stack.size() > 0){//stack.size() will decriment with the pop()
+			reverse += stack.pop();
+		}
+		return reverse.equals(str);
 
 	}
 
