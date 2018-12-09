@@ -8,6 +8,9 @@ import java.util.Scanner;
  * @author Elliott Pryor
  */
 public class Dice {
+
+
+
 	/**
 	 * Simulates rolling a die
 	 * @return a random number 1 through 6
@@ -72,4 +75,5 @@ public class Dice {
 		System.out.println(txt);
 		return readInt();
 	}
+
 }
